@@ -8,10 +8,15 @@ and the instructions below reflect that. To get the tool up and going on your ow
 * Make the script files executable:
 
 	 chmod u+x generator.sh
+	 
 	 chmod u+x lifecycle.sh
+	 
 	 chmod u+x netcat.sh
+	 
 	 chmod u+x set_targets.sh
+	 
 	 chmod u+x startup.sh
+	 
 	 chmod u+x trace.sh
   
 * Edit the set-targets.sh file so that the targets array holds the hosts you wish to monitor. (See https://ternary.tech/quick-and-easy-route-monitoring/ for details)
